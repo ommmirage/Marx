@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor.exe" "C:\Users\ommmi\Documents\Unreal Projects\Marx\Marx.uproject" -server -log -port-7778
