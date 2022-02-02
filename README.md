@@ -1,3 +1,3 @@
-Online game 
+Unreal Engine 4 online game
 
-Developed with Unreal Engine 4
+Login server implemented
